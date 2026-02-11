@@ -1,4 +1,4 @@
-# AWS Knowledge MCP Server
+v# AWS Knowledge MCP Server
 
 A fully managed remote MCP server that provides up-to-date documentation, code samples, knowledge about the regional availability of AWS APIs and CloudFormation resources, and other official AWS content.
 
